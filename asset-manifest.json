@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/WorkOutWorkouts/static/css/main.7f7104bb.chunk.css",
-    "main.js": "/WorkOutWorkouts/static/js/main.2b6d7fe3.chunk.js",
-    "main.js.map": "/WorkOutWorkouts/static/js/main.2b6d7fe3.chunk.js.map",
+    "main.js": "/WorkOutWorkouts/static/js/main.ca2088fe.chunk.js",
+    "main.js.map": "/WorkOutWorkouts/static/js/main.ca2088fe.chunk.js.map",
     "runtime-main.js": "/WorkOutWorkouts/static/js/runtime-main.3f61f0c7.js",
     "runtime-main.js.map": "/WorkOutWorkouts/static/js/runtime-main.3f61f0c7.js.map",
     "static/js/2.b5c327be.chunk.js": "/WorkOutWorkouts/static/js/2.b5c327be.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.3f61f0c7.js",
     "static/js/2.b5c327be.chunk.js",
     "static/css/main.7f7104bb.chunk.css",
-    "static/js/main.2b6d7fe3.chunk.js"
+    "static/js/main.ca2088fe.chunk.js"
   ]
 }
