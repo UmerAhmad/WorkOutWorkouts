@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/WorkOutWorkouts/static/css/main.e7b3568f.chunk.css",
-    "main.js": "/WorkOutWorkouts/static/js/main.ca2088fe.chunk.js",
-    "main.js.map": "/WorkOutWorkouts/static/js/main.ca2088fe.chunk.js.map",
+    "main.css": "/WorkOutWorkouts/static/css/main.ba48b4f5.chunk.css",
+    "main.js": "/WorkOutWorkouts/static/js/main.1c54b41e.chunk.js",
+    "main.js.map": "/WorkOutWorkouts/static/js/main.1c54b41e.chunk.js.map",
     "runtime-main.js": "/WorkOutWorkouts/static/js/runtime-main.3f61f0c7.js",
     "runtime-main.js.map": "/WorkOutWorkouts/static/js/runtime-main.3f61f0c7.js.map",
     "static/js/2.b5c327be.chunk.js": "/WorkOutWorkouts/static/js/2.b5c327be.chunk.js",
     "static/js/2.b5c327be.chunk.js.map": "/WorkOutWorkouts/static/js/2.b5c327be.chunk.js.map",
     "index.html": "/WorkOutWorkouts/index.html",
-    "static/css/main.e7b3568f.chunk.css.map": "/WorkOutWorkouts/static/css/main.e7b3568f.chunk.css.map",
+    "static/css/main.ba48b4f5.chunk.css.map": "/WorkOutWorkouts/static/css/main.ba48b4f5.chunk.css.map",
     "static/js/2.b5c327be.chunk.js.LICENSE.txt": "/WorkOutWorkouts/static/js/2.b5c327be.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3f61f0c7.js",
     "static/js/2.b5c327be.chunk.js",
-    "static/css/main.e7b3568f.chunk.css",
-    "static/js/main.ca2088fe.chunk.js"
+    "static/css/main.ba48b4f5.chunk.css",
+    "static/js/main.1c54b41e.chunk.js"
   ]
 }
